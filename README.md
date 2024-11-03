@@ -3,5 +3,5 @@ Requirements:
 2. MySql 5.7
 
 How to:
-1. Clone the repo to your web server document folder, optionally to a sub folder.
-2. Load the page (URL) in browser.
+1. Clone the repo to a sub folder in your web server document folder. Make sure this sub folder is writable by your web server.
+2. Load the page (URL) in browser. There is no need to create a virtual host. You can access it directly by going to the sub folder.
